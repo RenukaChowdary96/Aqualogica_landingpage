@@ -6,7 +6,7 @@ A replica of the Aqualogica website using HTML, CSS, Bootstrap. This project mim
 The Aqualogica Clone project is designed to replicate the UI of the Aqualogica website, focusing on the layout and product display. This clone includes a static front-end that showcases a navigation bar, product section, footer, and product descriptions.
 
 **Live Demo**
-Link to Live Project
+Link to Live Project:https://renukachowdary96.github.io/Aqualogica_landingpage/
 
 **Features**
 Fully responsive website layout
@@ -16,11 +16,12 @@ Add to cart buttons (non-functional)
 Footer with social media icons and links
 Promotional banner on top
 Use of Bootstrap for responsive grid layouts and buttons
+
 **Technologies Used**
-HTML5
+_HTML5
 CSS3
 Bootstrap 4.5.2
-Font Awesome for icons
+Font Awesome for icons_
 
 Setup
 **Clone this repository:**
